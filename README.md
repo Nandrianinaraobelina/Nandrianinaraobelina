@@ -1,7 +1,7 @@
 <!-- HEADER TERMINAL ANIMÉ -->
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=20&duration=1800&pause=600&color=00FF00&background=000000&center=true&vCenter=true&width=750&lines=nandrianina@dev:~$+whoami;NANDRIANINA;nandrianina@dev:~$+cat+role.txt;Développeur+Web+%26+Mobile;nandrianina@dev:~$+ls+stack;Flutter+%7C+Java+%7C+Spring+Boot;nandrianina@dev:~$+echo+%22Ready+🚀%22" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=20&duration=1800&pause=600&color=00FF00&background=000000&center=true&vCenter=true&width=750&lines=nandrianina@dev:~$+whoami;NANDRIANINA;nandrianina@dev:~$+cat+role.txt;Développeur+Web+%26+Mobile;nandrianina@dev:~$+ls+stack;Flutter+%7C+Java+%7C+Spring+Boot;nandrianina@dev:~$+echo+%22Ready+%22" />
 
 </div>
 
@@ -41,7 +41,7 @@
 
 ---
 
-## 🤖 AI System Dashboard
+##  AI System Dashboard
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=18&duration=1500&pause=500&color=00FFFF&center=true&vCenter=true&width=700&lines=Initializing+AI+System...;Analyzing+GitHub+Data...;Generating+Developer+Profile...;Status:+ONLINE+✔️" />
