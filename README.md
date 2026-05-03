@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=herynandrianina.herynandrianina" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Nandrianinaraobelina.Nandrianinaraobelina" />
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Salut+!+👋;+Je+suis+Nandrianina!;" />
@@ -12,7 +12,7 @@
 
 Je travaille actuellement sur des projets personnels et d’apprentissage
 
-J’apprends actuellement : Flutter, Dart, Git, et les bases du backend
+J’apprends actuellement : Flutter, Dart, Git,springboot,Java, et les bases du backend
 
 Fun fact : J’aime apprendre de nouvelles technologies chaque jour.
 
@@ -58,10 +58,10 @@ Mon ambition est de contribuer à des projets réels et d’évoluer dans le mon
 <h2 align="center">⚡ Statistiques ⚡</h2>
 <br>
 <div align="center">
-  <img width=390 src="https://github-readme-streak-stats.vercel.app/?user=herynandrianina&theme=react&border_radius=10" />
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=herynandrianina&show_icons=true&theme=react&border_radius=10" />
-  <br/>
-  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs/?username=herynandrianina&layout=compact&theme=react&border_radius=10" />
+<img width=390 src="https://github-readme-streak-stats.vercel.app/?user=Nandrianinaraobelina&theme=react&border_radius=10" />
+<img width=390 src="https://github-readme-stats.vercel.app/api?username=Nandrianinaraobelina&show_icons=true&theme=react&border_radius=10" />
+<br/>
+<img width=325 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nandrianinaraobelina&layout=compact&theme=react&border_radius=10" />
 </div>
 
 <br/><br/>
