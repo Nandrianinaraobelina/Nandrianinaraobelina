@@ -1,76 +1,95 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Nandrianinaraobelina.Nandrianinaraobelina&left_color=black&right_color=00ff00" />
-
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=35&duration=3000&color=00FF00&center=true&vCenter=true&lines=>>>+SYSTEM+BOOTING...;>>>+ACCESS+GRANTED;>>>+Nandrianina+ONLINE" />
-</h1>
-
-<h3 align="center" style="color:#00ff00;">Développeur web Junior </h3>
-
-<br/>
-
-<div align="center" style="color:#00ff00;">
-
-1) Initialisation des projets personnels...
-
-2) Chargement des compétences : Flutter, Dart, Java, Spring Boot...
-
-3) Apprentissage en cours...
-
-4) Statut : En évolution constante 
-
-</div>
-
-<br/>
-
-<div align="center"> 
-  <a href="mailto:herynandrianina575@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=00ff00" />
-  </a>
-  <a href="https://linkedin.com/in/tonprofil" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00ff00" />
-  </a>
-  <a href="https://hery-nandrianina-portfolio-2025.netlify.app/" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=todoist&logoColor=00ff00" />
-  </a>
-</div>
-
-<hr style="border:1px solid #00ff00;"/>
-
-<h2 align="center" style="color:#00ff00;">TECH STACK </h2>
-
+<!-- HEADER TERMINAL ANIMÉ -->
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=flutter,dart,html,css,js,github,vscode,git&theme=dark" />
-    <br/>
-    <img src="https://skillicons.dev/icons?i=nodejs,firebase,mongodb,mysql,java,spring&theme=dark" />
+
+<img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=20&duration=1800&pause=600&color=00FF00&background=000000&center=true&vCenter=true&width=750&lines=nandrianina@dev:~$+whoami;NANDRIANINA;nandrianina@dev:~$+cat+role.txt;Développeur+Web+%26+Mobile;nandrianina@dev:~$+ls+stack;Flutter+%7C+Java+%7C+Spring+Boot;nandrianina@dev:~$+echo+%22Ready+🚀%22" />
+
 </div>
 
-<hr style="border:1px solid #00ff00;"/>
+<!-- TYPING ANIMATION -->
+<h2 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=28&duration=2500&pause=800&color=4CA1AF&center=true&vCenter=true&width=700&lines=>>>+INITIALISATION...;>>>+Developpeur+Web+mobile;>>>+Java+Spring+Backend;>>>+Toujours+en+évolution+" />
+</h2>
 
-<div align="center">
-  <h2 style="color:#00ff00;">SYSTEM ACTIVITY </h2>
+
+
+##  À propos
+
+<p align="center">
+1) Développeur junior passionné<br/>
+2) Flutter & développement mobile<br/>
+3) Backend : Java / Spring Boot<br/>
+4) Apprentissage continu & progression constante
+</p>
+
+---
+
+##  Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,java,spring,html,css,js,git,github,vscode&perline=5" />
+</p>
+
+---
+
+##  Activité (animation)
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nandrianinaraobelina&theme=react-dark" />
+</p>
+
+
+
+---
+
+## 🤖 AI System Dashboard
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=18&duration=1500&pause=500&color=00FFFF&center=true&vCenter=true&width=700&lines=Initializing+AI+System...;Analyzing+GitHub+Data...;Generating+Developer+Profile...;Status:+ONLINE+✔️" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Nandrianinaraobelina&show_icons=true&theme=tokyonight" />
+</p>
+---
+
+##  Contributions animées
+
+<p align="center">
   <img src="https://raw.githubusercontent.com/Nandrianinaraobelina/Nandrianinaraobelina/output/snake.svg" />
-</div>
+</p>
 
-<hr style="border:1px solid #00ff00;"/>
 
-<h2 align="center" style="color:#00ff00;"> SYSTEM STATS </h2>
 
+
+---
+
+##  Contact
+
+<p align="center">
+  <a href="mailto:herynandrianina575@gmail.com">
+    <img src="https://img.shields.io/badge/Email-141E30?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/tonprofil">
+    <img src="https://img.shields.io/badge/LinkedIn-243B55?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://hery-nandrianina-portfolio-2025.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-4CA1AF?style=for-the-badge" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00ff00,100:003300&height=2"/>
+</p>
+<!-- FOOTER CYBER TERMINAL -->
+<!-- FOOTER COMMAND LOOP -->
 <div align="center">
 
-<img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=Nandrianinaraobelina&theme=chartreuse-dark&border_radius=10" />
-
-<img width="390" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Nandrianinaraobelina&show_icons=true&theme=chartreuse-dark&border_radius=10" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=16&duration=1800&pause=600&color=00FF00&background=000000&center=true&vCenter=true&width=700&lines=hery@parrot:~$+./deploy.sh;building+projects...;pushing+to+github...;done+✔️;hery@parrot:~$+_" />
 
 <br/>
 
-<img width="325" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Nandrianinaraobelina&layout=compact&theme=chartreuse-dark&border_radius=10" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:003300,100:00ff00&height=90&section=footer"/>
 
-</div>
-
-<br/>
-
-<div align="center" style="color:#00ff00;">
->>> SYSTEM STATUS : ACTIVE  
->>> USER : Nandrianina  
->>> MODE : HACKER 
 </div>
