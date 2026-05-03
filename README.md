@@ -50,7 +50,7 @@ Mon ambition est de contribuer à des projets réels et d’évoluer dans le mon
 <div align="center">
   <h2>Mes Contributions 🐍</h2>
   <br>
-  <img src="https://raw.githubusercontent.com/Nandrianinaraobelina/Nandrianinaraobelina/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/Nandrianinaraobelina/Nandrianinaraobelina/output/snake.svg" />
 </div>
 
 <hr/>
