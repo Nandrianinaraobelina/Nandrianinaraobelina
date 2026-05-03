@@ -58,10 +58,13 @@ Mon ambition est de contribuer à des projets réels et d’évoluer dans le mon
 <h2 align="center">⚡ Statistiques ⚡</h2>
 <br>
 <div align="center">
-<img width=390 src="https://github-readme-streak-stats.vercel.app/?user=Nandrianinaraobelina&theme=react&border_radius=10" />
-<img width=390 src="https://github-readme-stats.vercel.app/api?username=Nandrianinaraobelina&show_icons=true&theme=react&border_radius=10" />
-<br/>
-<img width=325 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nandrianinaraobelina&layout=compact&theme=react&border_radius=10" />
+
+<img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=Nandrianinaraobelina&theme=react&border_radius=10" />
+
+<img width="390" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Nandrianinaraobelina&show_icons=true&theme=react&border_radius=10" />
+
+<img width="325" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Nandrianinaraobelina&layout=compact&theme=react&border_radius=10" />
+
 </div>
 
 <br/><br/>
