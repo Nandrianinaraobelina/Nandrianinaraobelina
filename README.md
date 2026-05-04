@@ -27,7 +27,7 @@
 <td align="center" width="50%">
 
 <!-- LEFT : AI SYSTEM -->
-<img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=18&duration=1500&pause=500&color=00FFFF&center=true&vCenter=true&width=350&lines=Initializing+AI+System...;Analyzing+GitHub+Data...;Generating+Developer+Profile...;Status:+ONLINE+✔️" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=18&duration=1500&pause=500&color=00FFFF&center=true&vCenter=true&width=350&lines=Initializing+AI+System...;Analyzing+GitHub+Data...;Generating+Developer+Profile...;Status:+ONLINE+" />
 
 <br/>
 
@@ -38,7 +38,7 @@
 <td align="center" width="50%">
 
 <!-- RIGHT : ABOUT -->
-<h3>⚡ A PROPOS ⚡</h3>
+<h3> A PROPOS </h3>
 
 <img src="https://readme-typing-svg.herokuapp.com?color=00FFCC&center=true&vCenter=true&lines=INITIALIZING+PROFILE...;LOADING+DATA...;ACCESS+GRANTED+✔;WELCOME+DEVELOPER+⚡" />
 
@@ -59,7 +59,7 @@
 
 ---
 
-<h2 align="center">⚡ MES CHAÎNES DEV PRÉFÉRÉES ⚡</h2>
+<h2 align="center"> MES CHAÎNES DEV PRÉFÉRÉES </h2>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00FFCC&center=true&vCenter=true&lines=INITIALIZING+DEV+TRAINING.....;LOADING+MODULES...;ACCESS+GRANTED+✔;WELCOME+DEVELOPER+⚡" />
