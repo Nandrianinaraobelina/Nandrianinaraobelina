@@ -12,7 +12,7 @@
 
 ---
 
-## 🚀 Activité (animation)
+##  Activité (animation)
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Nandrianinaraobelina/Nandrianinaraobelina/output/github-contribution-grid-snake.svg" />
@@ -22,35 +22,36 @@
 
 ## 🤖 AI System Dashboard en Temps REEL @GITHUB
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=18&duration=1500&pause=500&color=00FFFF&center=true&vCenter=true&width=700&lines=Initializing+AI+System...;Analyzing+GitHub+Data...;Generating+Developer+Profile...;Status:+ONLINE+✔️" />
-</p>
+<table align="center">
+<tr>
+<td align="center" width="50%">
 
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Nandrianinaraobelina&show_icons=true&theme=tokyonight" />
-</p>
+<!-- LEFT : AI SYSTEM -->
+<img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=18&duration=1500&pause=500&color=00FFFF&center=true&vCenter=true&width=350&lines=Initializing+AI+System...;Analyzing+GitHub+Data...;Generating+Developer+Profile...;Status:+ONLINE+✔️" />
 
+<br/>
+
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Nandrianinaraobelina&show_icons=true&theme=tokyonight" />
+
+</td>
+
+<td align="center" width="50%">
+
+<!-- RIGHT : ABOUT -->
+<h3>⚡ A PROPOS ⚡</h3>
+
+<img src="https://readme-typing-svg.herokuapp.com?color=00FFCC&center=true&vCenter=true&lines=INITIALIZING+PROFILE...;LOADING+DATA...;ACCESS+GRANTED+✔;WELCOME+DEVELOPER+⚡" />
+
+<br/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=2000&pause=600&color=00FFCC&center=true&vCenter=true&width=400&lines=%5B1%5D+Développeur+junior+passionné;%5B2%5D+Cybersécurité+%26+Développement+Web+(Backend);%5B3%5D+Backend+:+Java+/+Spring+Boot+/+Express.js;%5B4%5D+Mobile+:+Dart+/+Flutter+(débutant);%5B5%5D+Apprentissage+continu+%26+progression+constante+⚡" />
+
+</td>
+</tr>
+</table>
 ---
 
-<h2 align="center">⚡ A PROPOS ⚡</h2>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FFCC&center=true&vCenter=true&lines=INITIALIZING+PROFILE...;LOADING+DATA...;ACCESS+GRANTED+✔;WELCOME+DEVELOPER+⚡" />
-</p>
-
-<p align="center">
-<code>
-[1] Développeur junior passionné <br>
-[2] Cybersécurité & Développement Web (Backend) <br>
-[3] Backend : Java / Spring Boot / Express.js <br>
-[4] Mobile : Dart / Flutter (débutant) <br>
-[5] Apprentissage continu & progression constante ⚡
-</code>
-</p>
-
----
-
-## 💻 LANGAGE DE PROGRAMMATION
+##  LANGAGE DE PROGRAMMATION
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=flutter,dart,java,spring,html,css,js,git,github,vscode&perline=5" />
@@ -94,7 +95,7 @@
 
 ---
 
-## 📩 Contact
+## Contact
 
 <p align="center">
   <a href="mailto:herynandrianina575@gmail.com">
