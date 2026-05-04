@@ -20,7 +20,7 @@
 
 ---
 
-## 🤖 AI System Dashboard en Temps REEL @GITHUB
+## AI System Dashboard en Temps REEL @GITHUB
 
 <table align="center">
 <tr>
