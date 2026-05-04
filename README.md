@@ -34,9 +34,8 @@
 ##  Activité (animation)
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nandrianinaraobelina&theme=react-dark" />
+  <img src="https://raw.githubusercontent.com/Nandrianinaraobelina/Nandrianinaraobelina/output/snake.svg" />
 </p>
-
 
 
 ---
