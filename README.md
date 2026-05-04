@@ -51,11 +51,21 @@
 </table>
 ---
 
-##  LANGAGE DE PROGRAMMATION sy OUTIL (IDE,etc..)
+##  LANGAGE DE PROGRAMMATION & OUTILS (IDE, etc.)
 
-<p align="center">
+<table align="center">
+<tr>
+
+<td align="center" width="60%">
   <img src="https://skillicons.dev/icons?i=flutter,dart,java,spring,html,css,js,git,github,vscode&perline=5" />
-</p>
+</td>
+
+<td align="center" width="40%">
+  <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="300"/>
+</td>
+
+</tr>
+</table>
 
 ---
 
