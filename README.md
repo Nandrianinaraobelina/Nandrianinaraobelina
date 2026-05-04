@@ -17,13 +17,24 @@
   <img src="https://raw.githubusercontent.com/Nandrianinaraobelina/Nandrianinaraobelina/output/github-contribution-grid-snake.svg" />
 </p>
 
+##  AI System Dashboard
 
-##  À propos
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=18&duration=1500&pause=500&color=00FFFF&center=true&vCenter=true&width=700&lines=Initializing+AI+System...;Analyzing+GitHub+Data...;Generating+Developer+Profile...;Status:+ONLINE+✔️" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Nandrianinaraobelina&show_icons=true&theme=tokyonight" />
+</p>
+---
+
+##  À propos 
 
 <p align="center">
 1) Développeur junior passionné<br/>
-2) Flutter & développement mobile<br/>
-3) Backend : Java / Spring Boot<br/>
+2) Cybersécurité et développement web (backend)<br/>
+3) Backend : Java / Spring Boot et Express.js<br/>
+4) Mobile : dart  / flutter (débutants)<br/>
 4) Apprentissage continu & progression constante
 </p>
 
@@ -42,16 +53,7 @@
 
 ---
 
-##  AI System Dashboard
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=18&duration=1500&pause=500&color=00FFFF&center=true&vCenter=true&width=700&lines=Initializing+AI+System...;Analyzing+GitHub+Data...;Generating+Developer+Profile...;Status:+ONLINE+✔️" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Nandrianinaraobelina&show_icons=true&theme=tokyonight" />
-</p>
----
 
 ##  Contact
 
