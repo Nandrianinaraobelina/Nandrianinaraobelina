@@ -14,10 +14,10 @@
 
 ##  Activité (animation)
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Nandrianinaraobelina/Nandrianinaraobelina/output/github-contribution-grid-snake.svg" />
-</p>
 
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 ---
 
 ## AI System Dashboard en Temps REEL @GITHUB
