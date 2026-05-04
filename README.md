@@ -50,24 +50,12 @@
 </tr>
 </table>
 ---
+## LANGAGE DE PROGRAMMATION & OUTILS (IDE, etc.)
 
-##  LANGAGE DE PROGRAMMATION & OUTILS (IDE, etc.)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,java,spring,html,css,js,git,github,vscode" />
+</p>
 
-<table align="center">
-<tr>
-
-<td align="center" width="60%">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,java,spring,html,css,js,git,github,vscode&perline=5" />
-</td>
-
-<td align="center" width="40%">
-  <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="300"/>
-</td>
-
-</tr>
-</table>
-
----
 
 <h2 align="center"> MES CHAÎNES DEV PRÉFÉRÉES </h2>
 
@@ -123,11 +111,27 @@
 
 <div align="center">
 
+<table>
+<tr>
+
+<td align="center" width="70%">
+
 <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100%" />
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=24&duration=1800&pause=600&color=00FF00&background=000000&center=true&vCenter=true&width=850&lines=nandrianina@matrix:~$+whoami;NANDRIANINA;Accessing+developer+profile...;Backend+%7C+Flutter+%7C+Cybersecurity;System+Status:+ONLINE+✔;Welcome+to+the+Matrix+⚡" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=24&duration=1800&pause=600&color=00FF00&background=000000&center=true&vCenter=true&width=700&lines=nandrianina@matrix:~$+whoami;NANDRIANINA;Accessing+developer+profile...;Backend+%7C+Flutter+%7C+Cybersecurity;System+Status:+ONLINE+✔;Welcome+to+the+Matrix+⚡" />
+
+</td>
+
+<td align="center" width="30%">
+
+<img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="250"/>
+
+</td>
+
+</tr>
+</table>
 
 </div>
 
