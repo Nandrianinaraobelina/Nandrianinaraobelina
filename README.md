@@ -51,7 +51,7 @@
 </table>
 ---
 
-##  LANGAGE DE PROGRAMMATION
+##  LANGAGE DE PROGRAMMATION sy OUTIL (IDE,etc..)
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=flutter,dart,java,spring,html,css,js,git,github,vscode&perline=5" />
