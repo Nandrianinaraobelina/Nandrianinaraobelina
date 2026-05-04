@@ -110,13 +110,18 @@
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00ff00,100:003300&height=2"/>
-</p>
+<div align="center">
+
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100%" />
+
+<br/>
+
+<img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=24&duration=1800&pause=600&color=00FF00&background=000000&center=true&vCenter=true&width=850&lines=nandrianina@matrix:~$+whoami;NANDRIANINA;Accessing+developer+profile...;Backend+%7C+Flutter+%7C+Cybersecurity;System+Status:+ONLINE+✔;Welcome+to+the+Matrix+⚡" />
+
+</div>
 
 <!-- FOOTER CYBER TERMINAL -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=16&duration=1800&pause=600&color=00FF00&background=000000&center=true&vCenter=true&width=700&lines=hery@parrot:~$+./deploy.sh;building+projects...;pushing+to+github...;done+✔️;hery@parrot:~$+_" />
-  <br/>
+
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:003300,100:00ff00&height=90&section=footer"/>
 </div>
