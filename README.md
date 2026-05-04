@@ -59,7 +59,7 @@
 
 ---
 
-<h2 align="center">⚡ CHAÎNES DEV QUE JE SUIS ⚡</h2>
+<h2 align="center">⚡ MES CHAÎNES DEV PRÉFÉRÉES ⚡</h2>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00FFCC&center=true&vCenter=true&lines=INITIALIZING+DEV+TRAINING.....;LOADING+MODULES...;ACCESS+GRANTED+✔;WELCOME+DEVELOPER+⚡" />
