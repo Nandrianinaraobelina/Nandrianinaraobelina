@@ -17,7 +17,7 @@
   <img src="https://raw.githubusercontent.com/Nandrianinaraobelina/Nandrianinaraobelina/output/github-contribution-grid-snake.svg" />
 </p>
 
-##  AI System Dashboard
+##  AI System Dashboard en Temps REEL ao @GITHUB
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=18&duration=1500&pause=500&color=00FFFF&center=true&vCenter=true&width=700&lines=Initializing+AI+System...;Analyzing+GitHub+Data...;Generating+Developer+Profile...;Status:+ONLINE+✔️" />
@@ -28,7 +28,7 @@
 </p>
 ---
 
-##  À propos 
+##  A PROPOS !!!
 
 <p align="center">
 1) Développeur junior passionné<br/>
@@ -40,13 +40,69 @@
 
 ---
 
-##  Stack
+##  LANGAGE DE PROGRAMMATION
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=flutter,dart,java,spring,html,css,js,git,github,vscode&perline=5" />
 </p>
 
 ---
+
+
+
+
+<h2 align="center"> CHAÎNES DEV QUE JE SUIS ⚡</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/SYSTEM-ONLINE-00ffcc?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/ACCESS-GRANTED-ff00ff?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/MODE-HACKER-0d1117?style=for-the-badge&logo=hackthebox"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FFCC&center=true&vCenter=true&lines=INITIALIZING+DEV+TRAINING.....;LOADING+MODULES...;ACCESS+GRANTED+✔;WELCOME+DEVELOPER+⚡" />
+</p>
+
+
+
+<p align="center">
+
+  <a href="https://www.youtube.com/watch?v=iasOWA6JSKc">
+    <img src="https://img.youtube.com/vi/iasOWA6JSKc/0.jpg" width="260"/>
+  </a>
+
+  <a href="https://www.youtube.com/watch?v=Gt7Gu0Hqppk">
+    <img src="https://img.youtube.com/vi/Gt7Gu0Hqppk/0.jpg" width="260"/>
+  </a>
+
+  <a href="https://www.youtube.com/watch?v=BEYHKXcmZwg">
+    <img src="https://img.youtube.com/vi/BEYHKXcmZwg/0.jpg" width="260"/>
+  </a>
+
+</p>
+
+<p align="center">
+
+  <a href="https://www.youtube.com/watch?v=LAKBrQ-b4kI">
+    <img src="https://img.youtube.com/vi/LAKBrQ-b4kI/0.jpg" width="260"/>
+  </a>
+
+  <a href="https://www.youtube.com/watch?v=DYHCG6G5R_k">
+    <img src="https://img.youtube.com/vi/DYHCG6G5R_k/0.jpg" width="260"/>
+  </a>
+
+  <a href="https://www.youtube.com/watch?v=VBSf1e9uMdw">
+    <img src="https://img.youtube.com/vi/VBSf1e9uMdw/0.jpg" width="260"/>
+  </a>
+
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FFCC&center=true&vCenter=true&lines=Loading+Flutter+Modules...;Injecting+Code...;Access+Granted+✔;Welcome+Developer+⚡"/>
+</p>
+
+
+
 
 
 
@@ -69,7 +125,21 @@
   </a>
 </p>
 
----
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00ff00,100:003300&height=2"/>
