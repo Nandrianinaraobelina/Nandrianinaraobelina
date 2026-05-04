@@ -28,17 +28,24 @@
 </p>
 ---
 
-##  A PROPOS !!!
+
+
+<h2 align="center">⚡ A PROPOS ⚡</h2>
 
 <p align="center">
-1) Développeur junior passionné<br/>
-2) Cybersécurité et développement web (backend)<br/>
-3) Backend : Java / Spring Boot et Express.js<br/>
-4) Mobile : dart  / flutter (débutants)<br/>
-4) Apprentissage continu & progression constante
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FFCC&center=true&vCenter=true&lines=INITIALIZING+PROFILE...;LOADING+DATA...;ACCESS+GRANTED+✔;WELCOME+DEVELOPER+⚡" />
 </p>
 
----
+<p align="center">
+<code>
+[1] Développeur junior passionné <br>
+[2] Cybersécurité & Développement Web (Backend) <br>
+[3] Backend : Java / Spring Boot / Express.js <br>
+[4] Mobile : Dart / Flutter (débutant) <br>
+[5] Apprentissage continu & progression constante ⚡
+</code>
+</p>
+
 
 ##  LANGAGE DE PROGRAMMATION
 
@@ -52,12 +59,6 @@
 
 
 <h2 align="center"> CHAÎNES DEV QUE JE SUIS ⚡</h2>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/SYSTEM-ONLINE-00ffcc?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/ACCESS-GRANTED-ff00ff?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/MODE-HACKER-0d1117?style=for-the-badge&logo=hackthebox"/>
-</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00FFCC&center=true&vCenter=true&lines=INITIALIZING+DEV+TRAINING.....;LOADING+MODULES...;ACCESS+GRANTED+✔;WELCOME+DEVELOPER+⚡" />
