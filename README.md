@@ -12,13 +12,6 @@
 
 ---
 
-##  Activité (animation)
-
-
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
----
 
 ## AI System Dashboard en Temps REEL @GITHUB
 
@@ -37,6 +30,9 @@
 
 <td align="center" width="50%">
 
+
+
+
 <!-- RIGHT : ABOUT -->
 <h3> A PROPOS </h3>
 
@@ -49,6 +45,15 @@
 </td>
 </tr>
 </table>
+
+
+##  Activité (animation)
+
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+---
 ---
 ## LANGAGE DE PROGRAMMATION & OUTILS (IDE, etc.)
 
