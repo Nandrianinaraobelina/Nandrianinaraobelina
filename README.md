@@ -11,6 +11,24 @@
 </h2>
 
 ---
+##  Activité (animation)
+
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+---
+---
+## LANGAGE DE PROGRAMMATION & OUTILS (IDE, etc.)
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,java,spring,html,css,js,git,github,vscode" />
+</p>
+
+
+
+
+
 
 
 ## AI System Dashboard en Temps REEL @GITHUB
@@ -47,19 +65,7 @@
 </table>
 
 
-##  Activité (animation)
 
-
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
----
----
-## LANGAGE DE PROGRAMMATION & OUTILS (IDE, etc.)
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,java,spring,html,css,js,git,github,vscode" />
-</p>
 
 
 <h2 align="center"> MES CHAÎNES DEV PRÉFÉRÉES </h2>
