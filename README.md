@@ -77,22 +77,41 @@
 
 
 
-<h2 align="center"> CERTIFICATIONS</h2>
+---
 
-<p align="center">
-  <a href="./certifications/Certification%20(2).pdf">
-   
+<h2 align="center"> MES CERTIFICATIONS: CODING GAME</h2>
+
+<table align="center">
+<tr>
+
+<td align="center">
+  <img src="Python.jpeg" width="250"/><br/><br/>
+  
+  <a href="https://www.codingame.com/certification/6bdyCXQ8k1OnvUZGHTv14g" target="_blank">
+     Certification Python
   </a>
+</td>
 
-  <a href="./certifications/Certification%20(3).pdf">
-    <img src="https://img.shields.io/badge/Certification-2-00ccff?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
+<td align="center">
+  <img src="JAVA.jpeg" width="250"/><br/><br/>
+  
+  <a href="https://www.codingame.com/certification/vxGcXEjMkEVTzwTahDxTjg" target="_blank">
+     Certification Java
   </a>
+</td>
 
-  <a href="./certifications/Certification%20(4).pdf">
-    <img src="https://img.shields.io/badge/Certification-3-ff6600?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
+<td align="center">
+  <img src="CPP.jpeg" width="250"/><br/><br/>
+  
+  <a href="https://www.codingame.com/certification/2Ssp_y8_1vCc02DnnNbtDQ" target="_blank">
+     Certification C++
   </a>
-</p>
+</td>
 
+</tr>
+</table>
+
+---
 
 
 
