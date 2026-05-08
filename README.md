@@ -18,12 +18,15 @@
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
----
----
-## LANGAGE DE PROGRAMMATION & OUTILS (IDE, etc.)
+
+ </br>
+                           LANGAGE DE PROGRAMMATION & OUTILS (IDE, etc.) 
+
+</br>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=flutter,dart,java,spring,html,css,js,git,github,vscode" />
+
 
 
 
@@ -35,6 +38,46 @@
 3) Backend : Java / Spring Boot<br/>
 4) Apprentissage continu & progression constante
 </p>
+
+
+<h2 align="center"> MES CERTIFICATIONS: CODING GAME</h2>
+
+<table align="center">
+<tr>
+
+<td align="center">
+  <img src="Python.jpeg" width="250"/><br/><br/>
+  
+  <a href="https://www.codingame.com/certification/6bdyCXQ8k1OnvUZGHTv14g" target="_blank">
+     Certification Python
+  </a>
+</td>
+
+<td align="center">
+  <img src="JAVA.jpeg" width="250"/><br/><br/>
+  
+  <a href="https://www.codingame.com/certification/vxGcXEjMkEVTzwTahDxTjg" target="_blank">
+     Certification Java
+  </a>
+</td>
+
+<td align="center">
+  <img src="CPP.jpeg" width="250"/><br/><br/>
+  
+  <a href="https://www.codingame.com/certification/2Ssp_y8_1vCc02DnnNbtDQ" target="_blank">
+     Certification C++
+  </a>
+</td>
+
+</tr>
+</table>
+
+
+
+
+
+
+
 
 
 
@@ -78,38 +121,6 @@
 
 
 ---
-
-<h2 align="center"> MES CERTIFICATIONS: CODING GAME</h2>
-
-<table align="center">
-<tr>
-
-<td align="center">
-  <img src="Python.jpeg" width="250"/><br/><br/>
-  
-  <a href="https://www.codingame.com/certification/6bdyCXQ8k1OnvUZGHTv14g" target="_blank">
-     Certification Python
-  </a>
-</td>
-
-<td align="center">
-  <img src="JAVA.jpeg" width="250"/><br/><br/>
-  
-  <a href="https://www.codingame.com/certification/vxGcXEjMkEVTzwTahDxTjg" target="_blank">
-     Certification Java
-  </a>
-</td>
-
-<td align="center">
-  <img src="CPP.jpeg" width="250"/><br/><br/>
-  
-  <a href="https://www.codingame.com/certification/2Ssp_y8_1vCc02DnnNbtDQ" target="_blank">
-     Certification C++
-  </a>
-</td>
-
-</tr>
-</table>
 
 ---
 
