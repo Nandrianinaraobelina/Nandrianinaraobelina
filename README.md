@@ -77,6 +77,26 @@
 
 
 
+<h2 align="center"> CERTIFICATIONS</h2>
+
+<p align="center">
+  <a href="./certifications/Certification%20(2).pdf">
+   
+  </a>
+
+  <a href="./certifications/Certification%20(3).pdf">
+    <img src="https://img.shields.io/badge/Certification-2-00ccff?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
+  </a>
+
+  <a href="./certifications/Certification%20(4).pdf">
+    <img src="https://img.shields.io/badge/Certification-3-ff6600?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
+  </a>
+</p>
+
+
+
+
+
 
 
 <h2 align="center"> MES CHAÎNES DEV PRÉFÉRÉES </h2>
@@ -110,6 +130,13 @@
 </p>
 
 ---
+
+
+
+
+
+
+
 
 
 
