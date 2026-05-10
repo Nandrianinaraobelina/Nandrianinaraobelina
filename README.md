@@ -1,6 +1,6 @@
 <!-- HEADER TERMINAL ANIMÉ -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=20&duration=1800&pause=600&color=00FF00&background=000000&center=true&vCenter=true&width=750&lines=nandrianina@dev:~$+whoami;NANDRIANINA;nandrianina@dev:~$+cat+role.txt;Développeur+Web+%26+Mobile;nandrianina@dev:~$+ls+stack;Flutter+%7C+Java+%7C+Spring+Boot;nandrianina@dev:~$+echo+%22Ready+%22" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=20&duration=1800&pause=600&color=00FF00&background=000000&center=true&vCenter=true&width=750&lines=%E2%94%8C%E2%94%80%E2%94%8C%5Bnandrianina%40parrot%5D%E2%94%80%5B%2F%5D%E2%94%80%E2%94%80%E2%94%82%24+cat+je+suis+un+d%C3%A9veloppeur" />
 </div>
 
 <br/>
@@ -8,7 +8,7 @@
 
 <!-- TYPING ANIMATION -->
 <h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=28&duration=2500&pause=800&color=4CA1AF&center=true&vCenter=true&width=700&lines=>>>+INITIALISATION...;>>>+Developpeur+Web+mobile;>>>+Java+Spring+Backend;>>>+Toujours+en+évolution+" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=28&duration=2500&pause=800&color=4CA1AF&center=true&vCenter=true&width=800&lines=Salama+daholo+Ianareo+Developpeur+rehetra;Nandrianina+no+anarako;Developpeur+Web+sy+Mobile;Java+%26+JavaScript+no+fototra+hianarako;Toujours+en+évolution..." />
 </h2>
 
 ---
