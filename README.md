@@ -154,8 +154,8 @@
   <a href="https://www.youtube.com/watch?v=DYHCG6G5R_k">
     <img src="https://img.youtube.com/vi/DYHCG6G5R_k/0.jpg" width="260"/>
   </a>
-  <a href="https://www.youtube.com/watch?v=VBSf1e9uMdw">
-    <img src="https://img.youtube.com/vi/VBSf1e9uMdw/0.jpg" width="260"/>
+  <a href="https://www.youtube.com/watch?v=SGWWQMaRWf8">
+    <img src="https://img.youtube.com/vi/SGWWQMaRWf8/0.jpg" width="260"/>
   </a>
 </p>
 
