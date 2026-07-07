@@ -40,7 +40,7 @@
 </p>
 
 
-<h2 align="center"> MES CERTIFICATIONS: CODING GAME</h2>
+<h2 align="center"> MES CERTIFICATIONS et ATTESTATIONS </h2>
 
 <table align="center">
 <tr>
@@ -68,6 +68,53 @@
      Certification C++
   </a>
 </td>
+
+
+<td align="center">
+  <img src="sary (1).png" width="250"/><br/><br/><br/><br/>
+  
+  <a href="" target="_blank">
+     IT
+  </a>
+</td>
+
+<td align="center">
+  <img src="sary (2).png" width="250"/><br/><br/><br/><br/>
+  
+  <a href="" target="_blank">
+     IT Customer Support 
+  </a>
+</td>
+
+
+<td align="center">
+  <img src="sary (3).png" width="250"/><br/><br/><br/><br/>
+  
+  <a href="" target="_blank">
+     JAVA (Basic) 
+  </a>
+</td>
+
+
+
+<td align="center">
+  <img src="sary (3).png" width="250"/><br/><br/><br/><br/>
+  
+  <a href="" target="_blank">
+     SE Linux
+  </a>
+</td>
+
+
+<td align="center">
+  <img src="sary (4).png" width="250"/><br/><br/><br/><br/>
+  
+  <a href="" target="_blank">
+     SE Linux
+  </a>
+</td>
+
+
 
 </tr>
 </table>
