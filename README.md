@@ -45,13 +45,7 @@
 <table align="center">
 <tr>
 
-<td align="center">
-  <img src="Python.jpeg" width="250"/><br/><br/>
-  
-  <a href="https://www.codingame.com/certification/6bdyCXQ8k1OnvUZGHTv14g" target="_blank">
-     Certification Python
-  </a>
-</td>
+
 
 <td align="center">
   <img src="JAVA.jpeg" width="250"/><br/><br/>
@@ -61,13 +55,7 @@
   </a>
 </td>
 
-<td align="center">
-  <img src="CPP.jpeg" width="250"/><br/><br/>
-  
-  <a href="https://www.codingame.com/certification/2Ssp_y8_1vCc02DnnNbtDQ" target="_blank">
-     Certification C++
-  </a>
-</td>
+
 
 
 <td align="center">
@@ -78,11 +66,21 @@
   </a>
 </td>
 
+
 <td align="center">
-  <img src="sary (2).png" width="250"/><br/><br/><br/><br/>
+  <img src="Python.jpeg" width="250"/><br/><br/>
+  
+  <a href="https://www.codingame.com/certification/6bdyCXQ8k1OnvUZGHTv14g" target="_blank">
+     Certification Python
+  </a>
+</td>
+
+
+<td align="center">
+  <img src="sary (6).png" width="250"/><br/><br/><br/><br/>
   
   <a href="" target="_blank">
-     IT Customer Support 
+     git/github 
   </a>
 </td>
 
@@ -98,10 +96,10 @@
 
 
 <td align="center">
-  <img src="sary (3).png" width="250"/><br/><br/><br/><br/>
+  <img src="sary (5).png" width="250"/><br/><br/><br/><br/>
   
   <a href="" target="_blank">
-     SE Linux
+     UI UX
   </a>
 </td>
 
@@ -114,6 +112,24 @@
   </a>
 </td>
 
+
+
+<td align="center">
+  <img src="sary (2).png" width="250"/><br/><br/><br/><br/>
+  
+  <a href="" target="_blank">
+     
+  </a>
+</td>
+
+
+<td align="center">
+  <img src="CPP.jpeg" width="250"/><br/><br/>
+  
+  <a href="https://www.codingame.com/certification/2Ssp_y8_1vCc02DnnNbtDQ" target="_blank">
+     Certification C++ 
+  </a>
+</td>
 
 
 </tr>
