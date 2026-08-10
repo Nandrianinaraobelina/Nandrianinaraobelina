@@ -150,21 +150,6 @@
 
 ## AI System Dashboard en Temps REEL @GITHUB
 
-<table align="center">
-<tr>
-<td align="center" width="50%">
-
-<!-- LEFT : AI SYSTEM -->
-<img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=18&duration=1500&pause=500&color=00FFFF&center=true&vCenter=true&width=350&lines=Initializing+AI+System...;Analyzing+GitHub+Data...;Generating+Developer+Profile...;Status:+ONLINE+" />
-
-<br/>
-
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Nandrianinaraobelina&show_icons=true&theme=tokyonight" />
-
-</td>
-
-<td align="center" width="50%">
-
 
 
 
