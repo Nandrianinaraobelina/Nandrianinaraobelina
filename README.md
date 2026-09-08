@@ -203,8 +203,8 @@
   <a href="https://www.youtube.com/watch?v=DYHCG6G5R_k">
     <img src="https://img.youtube.com/vi/DYHCG6G5R_k/0.jpg" width="260"/>
   </a>
-  <a href="https://www.youtube.com/watch?v=SGWWQMaRWf8">
-    <img src="https://img.youtube.com/vi/SGWWQMaRWf8/0.jpg" width="260"/>
+  <a href="https://youtu.be/Rt7xwb1SOcY">
+    <img src="https://img.youtube.com/vi/Rt7xwb1SOcY/0.jpg" width="260"/>
   </a>
 </p>
 
