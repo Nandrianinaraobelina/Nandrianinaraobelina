@@ -185,14 +185,14 @@
 </p>
 
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=iasOWA6JSKc">
-    <img src="https://img.youtube.com/vi/iasOWA6JSKc/0.jpg" width="260"/>
+  <a href="https://youtu.be/NRxzvpdduvQ">
+    <img src="https://img.youtube.com/vi/NRxzvpdduvQ/0.jpg" width="260"/>
   </a>
   <a href="https://www.youtube.com/watch?v=Gt7Gu0Hqppk">
     <img src="https://img.youtube.com/vi/Gt7Gu0Hqppk/0.jpg" width="260"/>
   </a>
-  <a href="https://www.youtube.com/watch?v=BEYHKXcmZwg">
-    <img src="https://img.youtube.com/vi/BEYHKXcmZwg/0.jpg" width="260"/>
+  <a href="https://youtu.be/sWbUDq4S6Y8">
+    <img src="https://img.youtube.com/vi/sWbUDq4S6Y8/0.jpg" width="260"/>
   </a>
 </p>
 
