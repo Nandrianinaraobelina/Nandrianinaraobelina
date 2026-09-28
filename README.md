@@ -7,6 +7,15 @@
 <br/>
 
 
+<h2 align="center"> MON PORTFOLIO (tapez l'image)</h2>
+
+<p align="center">
+  <a href="https://herynandrianina-portfolio.onrender.com/">
+    <img src="portfolio.png" width="800" alt="Aperçu du portfolio de Hery Nandrianina"/>
+  </a>
+</p>
+
+
 <!-- TYPING ANIMATION -->
 <h2 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=28&duration=2500&pause=800&color=4CA1AF&center=true&vCenter=true&width=800&lines=Salama+daholo+Ianareo+Developpeur+rehetra;Nandrianina+no+anarako;Developpeur+Web+sy+Mobile;Java+%26+JavaScript+no+fototra+hianarako;Toujours+en+évolution..." />
@@ -41,13 +50,6 @@
 </p>
 
 
-<h2 align="center"> MON PORTFOLIO (tapez l'image)</h2>
-
-<p align="center">
-  <a href="https://herynandrianina-portfolio.onrender.com/">
-    <img src="portfolio.png" width="800" alt="Aperçu du portfolio de Hery Nandrianina"/>
-  </a>
-</p>
 
 
 
