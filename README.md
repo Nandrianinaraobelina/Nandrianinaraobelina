@@ -41,7 +41,7 @@
 </p>
 
 
-<h2 align="center"> MON PORTFOLIO </h2>
+<h2 align="center"> MON PORTFOLIO (tapez l'image)</h2>
 
 <p align="center">
   <a href="https://herynandrianina-portfolio.onrender.com/">
