@@ -41,109 +41,13 @@
 </p>
 
 
-<h2 align="center"> MES CERTIFICATIONS et ATTESTATIONS </h2>
+<h2 align="center"> MON PORTFOLIO </h2>
 
-<table align="center">
-<tr>
-
-
-
-<td align="center">
-  <img src="JAVA.jpeg" width="250"/><br/><br/>
-  
-  <a href="https://www.codingame.com/certification/vxGcXEjMkEVTzwTahDxTjg" target="_blank">
-     Certification Java
+<p align="center">
+  <a href="https://herynandrianina-portfolio.onrender.com/">
+    <img src="portfolio.png" width="800" alt="Aperçu du portfolio de Hery Nandrianina"/>
   </a>
-</td>
-
-
-
-
-<td align="center">
-  <img src="sary (1).png" width="250"/><br/><br/><br/><br/>
-  
-  <a href="" target="_blank">
-     IT
-  </a>
-</td>
-
-
-<td align="center">
-  <img src="Python.jpeg" width="250"/><br/><br/>
-  
-  <a href="https://www.codingame.com/certification/6bdyCXQ8k1OnvUZGHTv14g" target="_blank">
-     Certification Python
-  </a>
-</td>
-
-
-<td align="center">
-  <img src="sary (6).png" width="250"/><br/><br/><br/><br/>
-  
-  <a href="" target="_blank">
-     git/github 
-  </a>
-</td>
-
-
-<td align="center">
-  <img src="sary (3).png" width="250"/><br/><br/><br/><br/>
-  
-  <a href="" target="_blank">
-     JAVA (Basic) 
-  </a>
-</td>
-
-
-
-<td align="center">
-  <img src="sary (5).png" width="250"/><br/><br/><br/><br/>
-  
-  <a href="" target="_blank">
-     UI UX
-  </a>
-</td>
-
-
-<td align="center">
-  <img src="sary (4).png" width="250"/><br/><br/><br/><br/>
-  
-  <a href="" target="_blank">
-     SE Linux
-  </a>
-</td>
-
-
-
-<td align="center">
-  <img src="sary (2).png" width="250"/><br/><br/><br/><br/>
-  
-  <a href="" target="_blank">
-     
-  </a>
-</td>
-
-
-<td align="center">
-  <img src="CPP.jpeg" width="250"/><br/><br/>
-  
-  <a href="https://www.codingame.com/certification/2Ssp_y8_1vCc02DnnNbtDQ" target="_blank">
-     Certification C++ 
-  </a>
-</td>
-
-
-</tr>
-</table>
-
-
-
-
-
-
-
-
-
+</p>
 
 
 
@@ -232,4 +136,3 @@
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:003300,100:00ff00&height=90&section=footer"/>
 </div>
-
