@@ -1,19 +1,20 @@
 
 <!-- HEADER TERMINAL ANIMÉ -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=20&duration=1800&pause=600&color=00FF00&background=000000&center=true&vCenter=true&width=750&lines=%E2%94%8C%E2%94%80%E2%94%8C%5Bnandrianina%40parrot%5D%E2%94%80%5B%2F%5D%E2%94%80%E2%94%80%E2%94%82%24+cat+je+suis+un+d%C3%A9veloppeur" />
-</div>
-
-<br/>
-
-
-<h2 align="center"> MON PORTFOLIO (tapez l'image)</h2>
+  <h2 align="center"> MON PORTFOLIO (https://herynandrianina-portfolio.onrender.com)</h2>
 
 <p align="center">
   <a href="https://herynandrianina-portfolio.onrender.com/">
     <img src="portfolio.png" width="800" alt="Aperçu du portfolio de Hery Nandrianina"/>
   </a>
-</p>
+  
+</p><img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=20&duration=1800&pause=600&color=00FF00&background=000000&center=true&vCenter=true&width=750&lines=%E2%94%8C%E2%94%80%E2%94%8C%5Bnandrianina%40parrot%5D%E2%94%80%5B%2F%5D%E2%94%80%E2%94%80%E2%94%82%24+cat+je+suis+un+d%C3%A9veloppeur" />
+</div>
+
+<br/>
+
+
+
 
 
 <!-- TYPING ANIMATION -->
