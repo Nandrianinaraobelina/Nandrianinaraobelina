@@ -1,7 +1,5 @@
-<!-- HEADER : PORTFOLIO -->
-<div align="center">
-  <h2>MON PORTFOLIO</h2>
 
+<div align="center">
   <a href="https://herynandrianina-portfolio.onrender.com/">
     <img
       src="portfolio.png"
