@@ -2,11 +2,20 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 */12 * * *"
+    - cron: "0 6 * * *"
   workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - "**"
 
 permissions:
   contents: write
+
+concurrency:
+  group: generate-snake
+  cancel-in-progress: true
 
 jobs:
   generate:
@@ -14,7 +23,7 @@ jobs:
 
     steps:
       - name: Checkout repo
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: Generate snake
         uses: Platane/snk@v3
@@ -22,12 +31,13 @@ jobs:
           github_user_name: Nandrianinaraobelina
           outputs: |
             dist/github-contribution-grid-snake.svg
-          
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: Push snake to output branch
-        uses: crazy-max/ghaction-github-pages@v3
+      - name: Publish to output branch
+        uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
+          jekyll: false
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

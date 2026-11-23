@@ -31,10 +31,16 @@
 ## Activité GitHub
 
 <div align="center">
-  <img
-    src="https://profile-readme-generator.com/assets/snake.svg"
-    alt="Animation Snake GitHub"
-  />
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/Nandrianinaraobelina/Nandrianinaraobelina/output/github-contribution-grid-snake-dark.svg"
+    />
+    <img
+      src="https://raw.githubusercontent.com/Nandrianinaraobelina/Nandrianinaraobelina/output/github-contribution-grid-snake.svg"
+      alt="Animation Snake des contributions GitHub"
+    />
+  </picture>
 </div>
 
 ---
